@@ -52,8 +52,10 @@ FIGURES
 
 I. Statistics of the table. 
 
-![](Aspose.Words.84dbcad9-95e4-4558-87c0-26eb2e257074.004.png)
+[](image_1.png)
+
 
 II.Visualising field measured dbh and using the dbh predictor. 
 
-![](Aspose.Words.84dbcad9-95e4-4558-87c0-26eb2e257074.005.jpeg)
+[](image_2.png)
+
