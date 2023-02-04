@@ -52,10 +52,10 @@ FIGURES
 
 I. Statistics of the table. 
 
-[](image_1.png)
+![](image_1.png)
 
 
 II.Visualising field measured dbh and using the dbh predictor. 
 
-[](image_2.png)
+![](image_2.png)
 
